@@ -1,0 +1,14 @@
+# Kindred roadmap
+- [x] Foundation, auth, roles, kill switches, AI budget tables
+- [x] Brief v2 merged (onboarding, charities, applications, shared courses, certificates)
+- [x] Marketplace (Too Good To Go-style cards), live spots, AI "For you"
+- [x] Courses → quiz (4/5) → certificate → "Unlocked N shifts", demo mode
+- [x] One-tap booking + eligibility, cancel booking
+- [x] Shift chat (Realtime, pinned logistics, coordinator badge)
+- [x] Dashboards (volunteer + charity KPIs/chart/applications/program), post shift + AI draft, attendance + endorsements
+- [x] Profiles: /me inline edit, /v/:id, /org/:id tabs, cross-links
+- [x] Admin console (switches, AI spend, users/roles, audit, reset demo)
+- [x] Landing page (Try as Maya)
+- [ ] Waiting on team: colour scheme teal/coral vs terracotta/sage
+- [ ] Security scan + fixes
+- [ ] README + judge talking points
